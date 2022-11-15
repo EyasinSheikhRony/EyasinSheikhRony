@@ -1,6 +1,7 @@
+![Full Stack Web Developer](https://media-exp1.licdn.com/dms/image/D5616AQECc0q9hKr8Dg/profile-displaybackgroundimage-shrink_350_1400/0/1667841569593?e=1674086400&v=beta&t=LyUisb08DS0hjvAwflNTkLFdDVtv64gXCkkGUVD7Ih0)
+
 ### Hi there 👋, I'm Eyasin Sheikh Rony
 #### Full Stack Web Developer
-![Full Stack Web Developer](https://media-exp1.licdn.com/dms/image/D5616AQECc0q9hKr8Dg/profile-displaybackgroundimage-shrink_350_1400/0/1667841569593?e=1674086400&v=beta&t=LyUisb08DS0hjvAwflNTkLFdDVtv64gXCkkGUVD7Ih0)
 
 I am a Full-stack Web Developer. Who isn't interested in creating error-free websites with 100% client satisfaction? I have a passion for learning and sharing my knowledge with others as openly as possible. I love solving real-world problems. I am strategic and goal-oriented and always work with an end goal in mind. Over the years, I have built 50+ plus websites for my clients. I pride myself on producing quality work and maintaining excellent communication. 
 Most of the time I work with WordPress but I enjoy working with some technologies including JavaScript, React.Js, JQuery as well as PHP language.
