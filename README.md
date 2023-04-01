@@ -1,4 +1,4 @@
-![Full Stack Web Developer](https://media-exp1.licdn.com/dms/image/D5616AQECc0q9hKr8Dg/profile-displaybackgroundimage-shrink_350_1400/0/1667841569593?e=1674086400&v=beta&t=LyUisb08DS0hjvAwflNTkLFdDVtv64gXCkkGUVD7Ih0)
+
 
 ### Hi there 👋, I'm Eyasin Sheikh Rony
 #### Full Stack Web Developer
