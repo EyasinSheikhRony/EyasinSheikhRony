@@ -6,13 +6,14 @@
 I am a Full-stack Web Developer. Who isn't interested in creating error-free websites with 100% client satisfaction? I have a passion for learning and sharing my knowledge with others as openly as possible. I love solving real-world problems. I am strategic and goal-oriented and always work with an end goal in mind. Over the years, I have built 50+ plus websites for my clients. I pride myself on producing quality work and maintaining excellent communication. 
 Most of the time I work with WordPress but I enjoy working with some technologies including JavaScript, React.Js, JQuery as well as PHP language.
 
-Skills: JavaScript / HTML / CSS / WordPress / JQuery / React.JS / Node.JS / PHP / Bootstrap / Sass / Laravel etc.
+Skills: JavaScript / HTML / CSS / WordPress / JQuery / React.JS / Node.JS / Express JS/ MongoDB/ Bootstrap/ Tailwind.CSS/ PHP / Sass / Laravel etc.
 
-- 🔭 I’m currently working on https://eyasinsheikhrony.com 
-- 🌱 I’m currently learning Java. 
-- 👯 I’m looking to collaborate on Web Development. 
-- 🤔 I’m looking for help with Web Development. 
-- 💬 Ask me about  any web development related Questions. 
+- 🔭 I’m currently working on https://eyasinsheikhrony.com
+- 🔭 My Portfolio Website https://eyasinsheikhrony.com
+- 🌱 I’m currently learning JavaScript & React.JS. 
+- 👯 I’m looking to collaborate on Web Design & Development. 
+- 🤔 I’m looking for help with Web Design & Development. 
+- 💬 Ask me about any web development related Questions. 
 - 📫 How to reach me: Linkedin - https://www.linkedin.com/in/eyasin-sheikh-rony/ & Facebook - https://www.facebook.com/EyasinSheikhRony & Email - skrony2573@gmail.com 
 - 😄 Pronouns: Everyone loves curd and I am sweet ! 
 - ⚡ Fun fact: Mr. Been  
